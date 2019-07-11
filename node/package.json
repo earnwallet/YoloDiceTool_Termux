@@ -1,0 +1,18 @@
+{
+  "name": "yolodice-bot-earnwallet",
+  "version": "1.0.0",
+  "description": "YoloDice bot created by EarnWallet team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EarnWallet (Cyjan)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "prompts": "^2.1.0",
+    "yargs": "^13.2.4",
+    "yolodice-api": "^1.1.9"
+  }
+}
