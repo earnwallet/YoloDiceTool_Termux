@@ -6,4 +6,4 @@ cd yd
 chmod +x YoloScript.sh
 cd ..
 echo "Complete! to Start script use:\n\n\n\n\n\n\n"
-echo "cd ~yd; sh YoloScript.sh"
+echo "cd ~/yd; sh YoloScript.sh"
