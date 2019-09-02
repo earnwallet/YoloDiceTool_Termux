@@ -5,5 +5,5 @@ git clone https://github.com/earnwallet/YoloDiceTool_Termux yd
 cd yd
 chmod +x YoloScript.sh
 cd ..
-echo "Complete! to Start script use:\n\n\n\n\n\n\n"
+echo "Complete! to Start script use:"
 echo "cd ~/yd; sh YoloScript.sh"
